@@ -1,0 +1,30 @@
+.navigation{
+    background-color: black;
+    border-radius: 100px;
+}
+
+.navigation ul{
+    overflow: auto;
+}
+
+.navigation li{
+    float: left;
+    list-style: none;
+    margin: 15px 20px;
+}
+
+.navigation li a{
+    text-decoration: none;
+    padding: 5px 5px;
+    color: aquamarine;    
+}
+
+.navigation div{
+    border-radius: 5px;
+}
+
+.search{
+    float: right;
+    padding: 14px 50px;
+}
+
